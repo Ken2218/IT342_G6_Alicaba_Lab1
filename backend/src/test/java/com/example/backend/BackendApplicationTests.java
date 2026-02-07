@@ -1,10 +1,10 @@
-package Alicaba.example.IT342_G6_Alicaba_Lab1;
+package com.example.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class It342G6AlicabaLab1ApplicationTests {
+class BackendApplicationTests {
 
 	@Test
 	void contextLoads() {
